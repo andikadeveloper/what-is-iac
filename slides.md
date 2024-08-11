@@ -10,6 +10,26 @@ drawings:
 @andikadeveloper
 
 ---
+
+# How is it work?
+
+---
+
+# Imperative
+
+---
+
+# Declarative
+
+---
+
+# What is it used for?
+
+---
+
+# Tools
+
+---
 class: text-center
 layout: center
 ---
